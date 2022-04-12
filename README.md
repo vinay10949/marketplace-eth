@@ -19,4 +19,4 @@ The entire integration part of Next JS with blockchain is done .
 
 # Courses Market Place
 Built courses market place ,where in courses can be managed,purchased using Ether.
-![Ethereum Courses Marketplace ](https://github.com/vinay10949/uniswap_demo/blob/main/Output.png?raw=true)
+![Ethereum Courses Marketplace ](https://github.com/vinay10949/marketplace-eth/blob/main/CoursesMarketPlace.png?raw=true)
